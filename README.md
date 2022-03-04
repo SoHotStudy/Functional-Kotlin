@@ -9,5 +9,5 @@
 #### Contributors
 
 <a href="https://github.com/SoHotStudy/Functional-Kotlin/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SoHotStudy/Learning-Concurrency-In-Kotlin" />
+  <img src="https://contributors-img.web.app/image?repo=SoHotStudy/Functional-Kotlin" />
 </a>
